@@ -24,7 +24,7 @@ py==1.11.0
 pyaml==15.8.2
 pyparsing==2.2.0
 pytest==3.0.7
-virtualenv==15.0.3
+virtualenv==20.26.6
 jmespath==0.9.0
 mock==2.0.0
 requests-mock==1.5.2
